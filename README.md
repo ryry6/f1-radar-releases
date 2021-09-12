@@ -33,6 +33,9 @@ Only works on PC windows atm! If you use mac/linux let me know because I can bui
 # Updates
 Updates will be pushed out automatically, when the download icon goes green you can restart the app and the new updates will be applied!
 
+There's a chance your anti-virus will flag the updater as an issue.
+You can either tell you anti-virus to ignore it or just check back here every so often to get the most recent updates!
+
 # FAQ
 
 - Does this work on f1 2020 and f1 2019?
