@@ -41,7 +41,8 @@ You can either tell you anti-virus to ignore it or just check back here every so
 
 # FAQ
 
-- Does this work on f1 2020 and f1 2019?
+Does this work on f1 2020 and f1 2019?
+
 Yes it does!
 
  
