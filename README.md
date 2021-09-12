@@ -1,4 +1,7 @@
 # F1 Radar 
+
+from reddit: https://www.reddit.com/r/F1Game/comments/pm1uhp/f1_radar_addon_feedback_wanted/
+
 Note: this is still early days of the app so it might be a bit buggy! Updates will be pushed out regularly! 
 
 Only works on PC windows atm! If you use mac/linux let me know because I can build it for those platforms as well
