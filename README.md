@@ -6,6 +6,8 @@ Note: this is still early days of the app so it might be a bit buggy! Updates wi
 
 Only works on PC windows atm! If you use mac/linux let me know because I can build it for those platforms as well
 
+Works in single player and multiplayer!
+
 # [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases/latest/download/f1-radar-setup.exe)
 
 # F1 Settings
@@ -41,6 +43,10 @@ Updates will be pushed out automatically, when the download icon goes green you 
 Does this work on f1 2020 and f1 2019?
 
 Yes it does!
+
+Does it work in multiplayer?
+
+Yep since this doesn't modify any files and uses the built in telemetry data it works in both single player and multiplayer! 
 
  
  # Help
