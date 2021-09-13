@@ -1,4 +1,5 @@
 # F1 Radar 
+![alt text](https://i.ibb.co/xDDspgd/f1-radar-image.png)
 
 from reddit: https://www.reddit.com/r/F1Game/comments/pm1uhp/f1_radar_addon_feedback_wanted/
 
