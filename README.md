@@ -9,7 +9,7 @@ Only works on PC windows atm! If you use mac/linux let me know because I can bui
 
 Works in single player and multiplayer!
 
-# [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases/latest/download/f1-radar-setup.exe)
+# [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 
 # F1 Settings
 1. F1 will need to be run in **borderless window mode!**
