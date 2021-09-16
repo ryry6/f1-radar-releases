@@ -16,7 +16,7 @@ Works in single player and multiplayer!
 2. Set up telemetry - Go to options -> settings -> telemtry settings and set the following:
   - UDP Telemetry - On
   - UDP IP Address - 127.0.0.1
-  - UDP Port - 20777
+  - UDP Port - 20777 (can be changed in the settings)
   - UDP Send Rate - 60hz (can be set to anything but the higher the better)
   - UDP Format - 2021
 
@@ -59,7 +59,7 @@ https://discord.gg/ysbvhBzFfU
  These are a list of features that will be implemented in the near future.
  - Custom car icons
  - Custom colour indicators
- - Custom udp ip and port
+ - ~~Custom udp ip and port~~ (v1.1.8)
  - Zoom in and out
  - Custom front back and side thresholds for showing on radar
  - And plenty more!!
