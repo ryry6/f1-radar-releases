@@ -66,5 +66,9 @@ https://discord.gg/ysbvhBzFfU
  - Custom front back and side thresholds for showing on radar
  - And plenty more!!
 
+# Discord Bot
+You might also like my f1 discord game bot, check it out here:
+https://top.gg/bot/591541073600577557
+
 # Support
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryry6)
