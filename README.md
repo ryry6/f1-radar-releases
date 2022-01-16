@@ -13,7 +13,7 @@ Works in single player and multiplayer!
 
 # [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 
-# F1 Settings
+# F1 Broderless Window Settings (see below for fullscreen mode)
 1. F1 will need to be run in **borderless window mode!**
 2. Set up telemetry - Go to options -> settings -> telemtry settings and set the following:
   - UDP Telemetry - On
@@ -37,6 +37,18 @@ Works in single player and multiplayer!
  3. Click and drag where you want the radar to display
  4. During the race all the extra ui will dissappear so it's not distracting
  5. enjoy!
+
+# F1 Fullscreen settings (BETA v1.3.0)
+1. Open f1 radar
+2. Open settings by clicking cog wheel
+3. check "Enable Fullscreen mode"
+4. Restart f1 radar
+5. f1 radar should now show when in fullscreen
+
+## Known Issues
+1. F1 radar will tab you out of the F1 game when it first attaches
+2. You might need to tab out and back in once or twice for it to move to the correct spot on the screen
+3. F1 radar might cause a constant tab out of F1 radar after attaching (restarting F1 radar should fix this!)
 
 # Updates
 Updates will be pushed out automatically, when the download icon goes green you can restart the app and the new updates will be applied!
