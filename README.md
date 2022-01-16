@@ -24,6 +24,8 @@ Works in single player and multiplayer!
 
 3. Close the game
 
+> If you're having issues where the radar won't appear above the game try enabling full screen mode and keep the game in borderless window mode
+
 # F1 Radar Instructions
 1. Download and run setup from link above.
 
