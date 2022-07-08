@@ -42,7 +42,7 @@ Works in single player and multiplayer!
  4. During the race all the extra ui will dissappear so it's not distracting
  5. enjoy!
 
-# F1 Fullscreen settings (BETA v1.3.0)
+# F1 Fullscreen settings (BETA)
 1. Open f1 radar
 2. Open settings by clicking cog wheel
 3. check "Enable Fullscreen mode"
