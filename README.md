@@ -22,10 +22,6 @@ Works in single player and multiplayer!
   - UDP Send Rate - 60hz (can be set to anything but the higher the better)
   - UDP Format - 2022
 
-3. Close the game
-
-> If you're having issues where the radar won't appear above the game try enabling full screen mode and keep the game in borderless window mode
-
 # F1 Radar Instructions
 
 ## Zip setup
