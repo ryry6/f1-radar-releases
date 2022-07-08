@@ -8,9 +8,13 @@ from reddit: https://www.reddit.com/r/F1Game/comments/pm1uhp/f1_radar_addon_feed
 Only works on PC windows!
 
 Works in multiplayer and single player!
+
 No modified files! (It uses the udp telemetry data)
+
 Compatible with any other udp telemetry programs
+
 Different car icons
+
 Can be moved anywhere that suits your hud setup
 
 # [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
