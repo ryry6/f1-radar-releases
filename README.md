@@ -1,4 +1,4 @@
-# F1 Radar 
+# F1 Radar (F122)
 <!-- ![alt text](https://i.ibb.co/xDDspgd/f1-radar-image.png) -->
 <img src="https://i.imgur.com/A8Mak5h.png" width="50%"><img src="https://i.imgur.com/lCkXn3C.png" width="50%">
 <img src="https://i.imgur.com/q36cJdc.png" width="50%"><img src="https://i.imgur.com/Em411qa.png" width="50%">
@@ -13,20 +13,28 @@ Works in single player and multiplayer!
 
 # [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 
-# F1 Broderless Window Settings (see below for fullscreen mode)
+# F1 Broderless Window Settings
 1. F1 will need to be run in **borderless window mode!**
 2. Set up telemetry - Go to options -> settings -> telemtry settings and set the following:
   - UDP Telemetry - On
   - UDP IP Address - 127.0.0.1
   - UDP Port - 20777 (can be changed in the settings)
   - UDP Send Rate - 60hz (can be set to anything but the higher the better)
-  - UDP Format - 2021
+  - UDP Format - 2022
 
 3. Close the game
 
 > If you're having issues where the radar won't appear above the game try enabling full screen mode and keep the game in borderless window mode
 
 # F1 Radar Instructions
+
+## Zip setup
+
+1. Download the zip file and extract to a folder
+2. Run F1 Radar.exe
+
+## EXE Installer Setup
+
 1. Download and run setup from link above.
 
 
@@ -47,17 +55,12 @@ Works in single player and multiplayer!
 4. Restart f1 radar
 5. f1 radar should now show when in fullscreen
 
-## Known Issues
-1. F1 radar will tab you out of the F1 game when it first attaches
-2. You might need to tab out and back in once or twice for it to move to the correct spot on the screen
-3. F1 radar might cause a constant tab out of F1 radar after attaching (restarting F1 radar should fix this!)
-
 # Updates
 Updates will be pushed out automatically, when the download icon goes green you can restart the app and the new updates will be applied!
 
 # FAQ
 
-Does this work on f1 2020 and f1 2019?
+Does this work on f1 2022, f1 2021, f1 2020 and f1 2019?
 
 Yes it does!
 
@@ -70,15 +73,6 @@ Yep since this doesn't modify any files and uses the built in telemetry data it 
  If you run into any issues visit the discord and ask in the help section!
  
 https://discord.gg/ysbvhBzFfU
- 
- # Future Features
- These are a list of features that will be implemented in the near future.
- - Custom car icons
- - Custom colour indicators
- - ~~Custom udp ip and port~~ (v1.1.8)
- - Zoom in and out
- - Custom front back and side thresholds for showing on radar
- - And plenty more!!
 
 # Discord Bot
 You might also like my f1 discord game bot, check it out here:
