@@ -1,7 +1,7 @@
 # F1 Radar (F122)
 <!-- ![alt text](https://i.ibb.co/xDDspgd/f1-radar-image.png) -->
-<img src="https://i.imgur.com/A8Mak5h.png" width="50%"><img src="https://i.imgur.com/lCkXn3C.png" width="50%">
-<img src="https://i.imgur.com/q36cJdc.png" width="50%"><img src="https://i.imgur.com/Em411qa.png" width="50%">
+<img src="https://i.imgur.com/A8Mak5h.png" width="50%"><img src="https://i.imgur.com/t8L1dy0.png" width="50%">
+<img src="https://i.imgur.com/n4NmrrW.png" width="50%"><img src="https://i.imgur.com/pzewA3M.png" width="50%">
 
 from reddit: https://www.reddit.com/r/F1Game/comments/pm1uhp/f1_radar_addon_feedback_wanted/
 
