@@ -1,4 +1,5 @@
 # F1 Radar (F122)
+# [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 <!-- ![alt text](https://i.ibb.co/xDDspgd/f1-radar-image.png) -->
 <img src="https://i.imgur.com/A8Mak5h.png" width="50%"><img src="https://i.imgur.com/t8L1dy0.png" width="50%">
 <img src="https://i.imgur.com/n4NmrrW.png" width="50%"><img src="https://i.imgur.com/pzewA3M.png" width="50%">
@@ -16,8 +17,6 @@ Compatible with any other udp telemetry programs
 Different car icons
 
 Can be moved anywhere that suits your hud setup
-
-# [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 
 # F1 Broderless Window Settings
 1. F1 will need to be run in **borderless window mode!**
