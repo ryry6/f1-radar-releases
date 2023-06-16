@@ -1,4 +1,4 @@
-# F1 Radar (F122)
+# F1 Radar (F123)
 # [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 <!-- ![alt text](https://i.ibb.co/xDDspgd/f1-radar-image.png) -->
 <img src="https://i.imgur.com/A8Mak5h.png" width="50%"><img src="https://i.imgur.com/t8L1dy0.png" width="50%">
@@ -25,7 +25,7 @@ Can be moved anywhere that suits your hud setup
   - UDP IP Address - 127.0.0.1
   - UDP Port - 20777 (can be changed in the settings)
   - UDP Send Rate - 60hz (can be set to anything but the higher the better)
-  - UDP Format - 2022
+  - UDP Format - 2023
 
 # F1 Radar Instructions
 
@@ -61,7 +61,7 @@ Updates will be pushed out automatically, when the download icon goes green you 
 
 # FAQ
 
-Does this work on f1 2022, f1 2021, f1 2020 and f1 2019?
+Does this work on f1 2023, f1 2022, f1 2021 and f1 2020?
 
 Yes it does!
 
