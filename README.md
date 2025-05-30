@@ -1,4 +1,8 @@
 # F1 Radar (F124)
+
+# Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryry6)
+
 # [Download F1 Radar](https://github.com/ryry6/f1-radar-releases/releases)
 <!-- ![alt text](https://i.ibb.co/xDDspgd/f1-radar-image.png) -->
 <img src="https://i.imgur.com/A8Mak5h.png" width="50%"><img src="https://i.imgur.com/t8L1dy0.png" width="50%">
@@ -79,5 +83,3 @@ https://discord.gg/ysbvhBzFfU
 You might also like my f1 discord game bot, check it out here:
 https://top.gg/bot/591541073600577557
 
-# Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryry6)
