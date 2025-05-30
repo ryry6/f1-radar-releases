@@ -1,4 +1,4 @@
-# F1 Radar (F124)
+# F1 Proximity Radar - Works in F1 25!
 
 # Support
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryry6)
