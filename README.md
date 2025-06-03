@@ -29,7 +29,7 @@ Can be moved anywhere that suits your hud setup
   - UDP IP Address - 127.0.0.1
   - UDP Port - 20777 (can be changed in the settings)
   - UDP Send Rate - 60hz (can be set to anything but the higher the better)
-  - UDP Format - 2024
+  - UDP Format - 2025
 
 # F1 Radar Instructions
 
